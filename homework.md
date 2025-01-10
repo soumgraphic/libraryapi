@@ -1,3 +1,16 @@
+**Devoir étudiants Brest Open Campus**
+
+Faute de ne pas pouvoir créer de devoir sur Teams, vous trouverez ci-dessous le devoir à réaliser avant le 02 février à 20h
+
+1. Une API développer avec Spring boot connecté à une base de données.
+2. Une API qui respecte les bonnes pratiques de qualité de code et de sécurité, authentification JWT avec des rôles.
+3. Une API documentée avec Swagger et Postman et testable facilement avec des cas de tests et aussi des tests postman.
+4. Une API dont le code source est déployée sur Github accessible en public.
+5. Une API qui suit les specifications dans le document ci-dessous homework.md
+6. Vous êtes libre de choisir le concept d'API à développer, il faut juste que ça respecte l'exemple de spécification ci-dessous.
+7. Votre API doit également avoir des endpoints innovants au delà du CRUD classique sur les 4 ressources minimums requis.
+8. Une mini doc dans le readme.md qui explique le concept du projet et sur comment démarrer avec des cas de tests et tout le nécessaire à envoyer a mon mail.
+
 Sure, here is an exercise idea for developing a school API:
 
 **Exercise: Develop a School Management API**
